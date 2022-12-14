@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity() {
         quizList.add(Quiz("17-10-2021","17-10-2021"))
         quizList.add(Quiz("17-10-2021","17-10-2021"))
         quizList.add(Quiz("17-10-2021","17-10-2021"))
-
+//commit
     }
 
     fun setUpViews() {
